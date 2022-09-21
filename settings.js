@@ -44,12 +44,12 @@ global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" //
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = 'RIZKYSTORE' //sticker wm ubah
 global.author = 'RIZKYROBOT' //sticker wm ganti nama kalian
-global.sessionName = 'sessionn'
+global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
     premium: "10000",
-    free: 10
+    free: 5
 }
 
 global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
